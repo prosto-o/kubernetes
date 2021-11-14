@@ -1,0 +1,25 @@
+.reveal-viewport {
+    /*background-color: #1a6091;*/
+    /*background-color: #3b759e;*/
+    background-color: #264c66;
+}
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal h1 {
+    font-family: "Comic Sans MS";
+    font-size: 1.5em;
+    /*text-align: left;*/
+}
+
+.reveal h2 {
+    font-family: "Comic Sans MS";
+    font-size: 1.1em;
+    /*text-align: left;*/
+}
+
+.reveal p {
+    /*text-align: left;*/
+    font-size: 0.8em;
+}
