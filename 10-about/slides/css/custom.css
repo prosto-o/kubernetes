@@ -1,8 +1,8 @@
-.reveal-viewport {
-    /*background-color: #1a6091;*/
-    /*background-color: #3b759e;*/
+/*
+ .reveal-viewport {
     background-color: #264c66;
-}
+} 
+*/
 .reveal .slides {
     text-align: left;
 }
@@ -15,11 +15,21 @@
 
 .reveal h2 {
     font-family: "Comic Sans MS";
-    font-size: 1.1em;
+    font-size: 1em;
     /*text-align: left;*/
 }
 
 .reveal p {
     /*text-align: left;*/
     font-size: 0.8em;
+}
+
+p.note {
+    font-size: 0.8em;
+    color: indianred;
+}
+
+li.strikeout {
+    color: #D0D7D9;
+    text-decoration: line-through;
 }
